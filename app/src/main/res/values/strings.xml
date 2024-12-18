@@ -1,0 +1,7 @@
+<resources>// Info de la Card en FR
+    <string name="app_name">Eval-Kotlin</string>
+    <string name="Title">Jesus Christ</string>
+    <string name="State">Alive - Human</string>
+    <string name="Location">Ricks’s Story</string>
+    <string name="Seen">Never Ricking Morty</string>
+</resources>
